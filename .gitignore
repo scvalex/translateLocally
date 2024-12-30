@@ -75,3 +75,7 @@ build*/
 
 # Qt creator:
 CMakeLists.txt.user
+
+/.cache
+/.direnv
+/compile_commands.json
